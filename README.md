@@ -1,2 +1,0 @@
-# StabakSen.github.io
-Portfolio
