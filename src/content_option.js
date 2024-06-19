@@ -1,59 +1,61 @@
-const logotext = "JOHN";
+const logotext = "STBK";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Stabak Sen",
+    description: "I’m Stabak Sen, Full stack developer,currently working from remote locations.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Stabak Sen",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I solve complex problems",
+        third: "I love to learn and help others learn",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Full stack developer, certified by Oracle as a Java Associate, currently working from remote locations.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Bio",
+    aboutme: `Full Stack developer certified by Oracle as a Java Associate and certified by freeCodeCamp
+              in Front-End libraries,
+              accredited as a Technical AWS Partner. A demonstrated history of working in banking tech.`,
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Specialist Software Engineer",
+        where: "LTIMindtree",
+        date: "September, 2022 - Present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Senior Developer",
+        where: "Barclays",
+        date: "June, 2018 - September, 2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Senior Associate Consultant",
+        where: "Infrasoft Technologies",
+        date: "August, 2015 - May, 2018",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Java",
+        value: 95,
+    },
+    {
+        name: "Spring/ Spring-boot",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "React",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "Angular",
+        value: 75,
     },
     {
-        name: "Jquery",
+        name: "SQL",
         value: 85,
     },
 ];
@@ -136,9 +138,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "stabaksen@gmail.com",
+    YOUR_FONE: "+91-8668674967",
+    description: "Get in touch with me anytime. For job offers as well as if I can help you with any problem.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +149,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/StabakSen",
+    facebook: "https://www.facebook.com/stabaksen",
+    linkedin: "https://www.linkedin.com/in/stabaksen/",
+    twitter: "https://x.com/stabaksen",
 };
 export {
     meta,
