@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbc00891.css",
-    "main.js": "/static/js/main.e9d11744.js",
+    "main.css": "/static/css/main.64fa2624.css",
+    "main.js": "/static/js/main.c4187866.js",
+    "static/media/cutout_transparent.png": "/static/media/cutout_transparent.09730ed7891edd44bbf3.png",
+    "static/media/oracle-ja-java8.png": "/static/media/oracle-ja-java8.565880dad15e9b7e7b9e.png",
+    "static/media/aws-accredition.png": "/static/media/aws-accredition.7c32d6f28b1dbc52868f.png",
+    "static/media/free-code-camp.png": "/static/media/free-code-camp.f02c954f329b536f4e9a.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.fbc00891.css",
-    "static/js/main.e9d11744.js"
+    "static/css/main.64fa2624.css",
+    "static/js/main.c4187866.js"
   ]
 }
