@@ -9,6 +9,7 @@ import AppRoutes from "./routes";
 import Headermain from "../header";
 import AnimatedCursor  from "../hooks/AnimatedCursor";
 import "./App.css";
+import oraclecert from "../assets/certificates/oracle-ja-java8.png";
 
 function _ScrollToTop(props) {
   const { pathname } = useLocation();
